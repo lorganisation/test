@@ -10,3 +10,5 @@ ASDF badoop
 {{< resource_link 9bbea913-4ccd-4d45-b42d-c3f36793ea81 >}} asdfasdf
 
 neat.
+
+{{< resource 9bbea913-4ccd-4d45-b42d-c3f36793ea81 >}}
